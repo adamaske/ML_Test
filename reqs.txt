@@ -1,0 +1,18 @@
+#---- VIRTUAL ENV SETUP -----
+#python -m venv ./venv
+
+# --- INSTALL COMMAND ----
+#python -m pip install -r reqs.txt
+
+numpy
+matplotlib
+tensorflow
+scikit-learn
+#pandas'
+#scipy
+#sympy
+
+
+#pathlib
+#pylsl
+#pyserial
